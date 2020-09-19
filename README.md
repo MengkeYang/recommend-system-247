@@ -1,4 +1,4 @@
-# UCLA 2020spring cs247 final project KDD debiasing: Team #13
+# final project KDD debiasing: Team #13
 Authors: Shen Teng, Shiyu Yang, Zongze Li, Mengke Yang
 
 # Project Structure
